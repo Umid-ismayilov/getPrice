@@ -10,7 +10,7 @@ use Illuminate\Support\Str;
 
 class HomeController extends Controller
 {
-    public function bot(Request $request){
+    public function index(Request $request){
 
         if($request->method()=='POST') {
             try {
