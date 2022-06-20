@@ -6,4 +6,4 @@
 ![GitHub forks](https://img.shields.io/github/forks/Umid-ismayilov/getPrice?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Umid-ismayilov/getPrice?style=social)
 
-# Trendyol, Hepsiburada  ve Defacto dan Price ve Titllari cekme botu
+# Trendyol, Hepsiburada  ve Defacto dan Price ve Titlelari cekme botu
